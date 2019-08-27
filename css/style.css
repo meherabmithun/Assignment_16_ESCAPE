@@ -1,0 +1,215 @@
+/*header start*/
+header{
+	background-image: url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	
+}
+.nav_bar{
+	padding: 30px 0;
+}
+.nti{
+    background-color: #ffffff;
+}
+.logo_text{
+	font-weight: 700;
+    color: #ffffff;
+    padding-left: 5px;
+}
+.menu ul li a{
+    font-size: 18px;
+    color: #bbbbbb !important;
+    padding-right: 30px !important;
+    transition: .5s;
+}
+.menu ul li:last-child a{
+    padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: #7690C5 !important;
+}
+/*slider start*/
+.car_in{
+	bottom: 12px;
+}
+.car_in li{
+	width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: #ffffff;
+}
+.content{
+	margin: 10px 0;
+}
+.heading{
+	font-weight: 400;
+    font-size: 20px;
+    color: #bbbbbb;
+    padding-top: 40px;
+}
+.big_heading{
+	font-size: 52px;
+    color: #ffffff;
+    margin: 25px 0 50px;
+}
+.btn_c{
+	margin-bottom: 78px;
+    color: #ffffff;
+    border-color: #ffffff;
+    padding: 8px 20px;
+}
+/*slider end*/
+/*header end*/
+/*web development start*/
+.w_development{
+    padding: 50px 0;
+}
+.w_heading{
+    font-weight: 400;
+    font-size: 35px;
+}
+.sub_heading{
+    font-weight: 700;
+    font-size: 35px;
+}
+.w_details{
+    font-size: 16px;
+}
+.w_image{
+    margin-top: 15px;
+}
+/*web development end*/
+/*identity branding start*/
+.i_branding{
+    background-color: #FAFAFA;
+    padding: 50px 0;
+}
+.i_image{
+    margin-top: 30px;
+}
+/*identity branding end*/
+/*service start*/
+.service{
+    padding: 35px 0;
+}
+.single_item{
+    margin: 15px 0;
+}
+.icon{
+    font-size: 60px;
+}
+.icon_text{
+    margin-top: 25px;
+}
+.icon_heading{
+    font-weight: 700;
+    font-size: 22px;
+}
+.icon_p{
+    font-size: 16px;
+}
+/*service end*/
+/*awesome clients start*/
+.clients{
+    background-color: #FAFAFA;
+    padding: 50px 0;
+}
+.black_icon{
+    margin-top: 30px;
+}
+.client_text{
+    margin-top: 40px;
+}
+/*awesome clients start*/
+/*website start*/
+.website{
+    padding: 50px 0;
+}
+.web_logo{
+    margin: 5px 0;
+}
+/*website end*/
+/*amazing team start*/
+.team{
+    background-color: #111111;
+    padding: 50px 0;
+}
+.team_content{}
+.w_regular{
+    color: #FBFBFB;
+}
+.white{
+    color: #ffffff;
+}
+.light{
+    color: #777777;
+}
+/*signle start*/
+.team_d{
+    margin-top: 30px;
+}
+.team_heading{
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 15px;
+}
+.team_name{
+    color: #ffffff;
+}
+.list-inline li a{
+    font-size: 25px;
+    color: #ffffff;
+    transition: .5s;
+}
+.fa-twitter-square:hover{
+    color: #1DA1F2;
+}
+.fa-facebook-square:hover{
+    color: #4267B2;
+}
+.fa-google-plus-square:hover{
+    color: #D64836;
+}
+.fa-pinterest-square:hover{
+    color: #E60023;
+}
+/*single end*/
+.team_last{
+    font-size: 20px;
+    color: #ffffff;
+    margin-top: 10px;
+}
+/*amazing team end*/
+/*hello start*/
+.hello{
+    background-color: #7690C5;
+    padding: 50px 0;
+}
+.h_white{
+    color: #fbfbfb;
+}
+.number{
+   color: #ffffff; 
+}
+/*form start*/
+.font_tc{}
+.font_icon{
+    color: #ffffff;
+}
+.number{}
+.yn{
+    margin-top: 15px
+}
+.fc{
+   font-size: 19px;
+}
+/*hello start*/
+/*footer start*/
+footer{
+    background-color: #7690C5;
+    padding: 30px 0;
+}
+/*footer end*/
